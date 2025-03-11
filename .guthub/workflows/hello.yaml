@@ -4,7 +4,7 @@ on:
     inputs:
       java_ver:
         default: '17'
-        description: Input the desired java version to be setup s
+        description: Input the desired java version to be setup
         type: string
         type: choice
         options:
