@@ -6,11 +6,7 @@ on:
         default: '17'
         description: Input the desired java version to be setup s
         type: string
-        type: choice
-        options:
-          - '11'
-          - '17'
-          - '21'
+
 jobs:
   jdk:
     name: setup java
