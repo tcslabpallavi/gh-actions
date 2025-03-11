@@ -8,9 +8,9 @@ on:
         type: string
         type: choice
         options:
-          - 11
-          - 17
-          - 21
+          - '11'
+          - '17'
+          - '21'
 jobs:
   jdk:
     name: setup java
